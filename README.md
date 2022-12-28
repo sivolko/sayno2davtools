@@ -1,4 +1,4 @@
-# sayno2davtools
+# sayno2devtools
 This repo is all about securing basic static sites from dev tools and basic inspect options but these are not full proof but could easily be bypass using keyboards shortcuts
 
 *warnings* 
