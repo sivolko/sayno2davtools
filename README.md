@@ -9,3 +9,11 @@ This code is just for beginner or somehow avoid inspects method for static webAp
 **Use**
 
 Include  this code snippet to last body tag.
+
+```js
+<script src="https://sivolko.github.io/sayno2devtools/disable-devtool.min.js" defer></script>
+```
+
+**Image**
+
+![image](https://user-images.githubusercontent.com/42417756/209821930-baf411dc-9a46-4596-bc1f-d02bc9b1773d.png)
